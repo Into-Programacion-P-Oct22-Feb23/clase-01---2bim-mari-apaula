@@ -28,7 +28,11 @@ public class Ejemplo012 {
             System.out.printf("%d\n", i);
         }
         
+        System.out.println("Ciclo con incremente de contador de 2 en 2");            
         
+        for (int i = 20; i <=30; i += 2) {
+            System.out.printf("%d\n", i);
+        }
     }
     
 }
